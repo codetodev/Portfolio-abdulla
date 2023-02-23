@@ -36,7 +36,6 @@
     ]
   },
   "devDependencies": {
-    "predeploy" : "npm run build",
     "gh-pages": "^5.0.0"
   }
 }
